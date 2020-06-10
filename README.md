@@ -2,14 +2,14 @@
 A chatbot working with the help of IBM Watson, *made as a project during a course on https://cognitiveclass.ai/*
 
 
-![chat screenshot](Capture.png)
+![](Capture.PNG)
 
 
-![chat screenshot 2](Capture3.png)
+![](Capture3.PNG)
 
 
 
-![chat screenshot 2](Cap23.png)
+![](Cap23.PNG)
 
 
-![chat screenshot 2](Cap2.png)
+![](Cap2.PNG)
